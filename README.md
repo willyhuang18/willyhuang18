@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm PangTa Huang👋 
 
-<!--
-**willyhuang18/willyhuang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a  Developer, and Studentz!!
 
-Here are some ideas to get you started:
+- 🔭 Check out my Project in Github
+- 🌱 I’m currently learning everything 🤣
+- :satisfied: I’m looking for an job opportunity
+- :briefcase: 2022 Goals: Land an Job
+- ⚡ Fun fact: I love to explore more coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+* [Pangta's GitHub](https://github.com/willyhuang18)
+* [Pangta's LinkedIn](https://www.linkedin.com/in/pangta-huang-2b7b0117a/)
+
