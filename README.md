@@ -1,11 +1,10 @@
 # Hi there, I'm PangTa Huang👋 
 
-## I'm a  Developer, and Studentz!!
+## I'm currently pursuing a Master's degree in Computer Science at Northeastern University.
 
-- 🔭 Check out my Project in Github
+- 🔭 Check out my Project on GitHub
 - 🌱 I’m currently learning everything 🤣
-- :satisfied: I’m looking for an job opportunity
-- :briefcase: 2022 Goals: Land an Job
+- :satisfied: I’m looking for an internship opportunity
 - ⚡ Fun fact: I love to explore more coding skills
 
 
