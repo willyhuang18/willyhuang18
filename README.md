@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **willyhuang18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18vc5YI7dtzWKDZV3LzepWLlnQGteKpiK/view?usp=sharing](https://drive.google.com/file/d/18vc5YI7dtzWKDZV3LzepWLlnQGteKpiK/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1pfqwXw9PHW3fvhm4VEmIQnHrmj7Cf77zsfZtWYUGF6E/edit?usp=sharing](https://docs.google.com/document/d/1pfqwXw9PHW3fvhm4VEmIQnHrmj7Cf77zsfZtWYUGF6E/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to explore more coding skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/pangta-huang-2b7b0117a/](https://www.linkedin.com/in/pangta-huang-2b7b0117a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pangta-huang-2b7b0117a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pangta-huang-2b7b0117a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pangta-huang-2b7b0117a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
