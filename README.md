@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **an internship opportunity**
 
-- 👨‍💻 All of my projects are available at [portfolio-chi-mauve-67.vercel.app/](portfolio-chi-mauve-67.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-chi-mauve-67.vercel.app/)
 
 - 📫 How to reach me **willyhuang18@gmail.com**
 
